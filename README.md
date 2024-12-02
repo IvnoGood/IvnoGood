@@ -1,7 +1,8 @@
 # IvnoGood 🌽
 `Digital Craftsman (web-dev)`
 
-Young passionated about coding things to make his world around him different
+Young passionated about coding things to make his world around him different and try to break codes by coding subnatural things.
+(mosytly about corn)
 <!-- 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -14,23 +15,30 @@ Young passionated about coding things to make his world around him different
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          
    </p>
-   -->
-   <hr>
-<div style="display:flex;justify-content:center;height:64px">
-<img align="left" alt="Linux" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" height="100%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+   --><hr>
+## My languages and tools 🧰
+<div align="center">
+<img align="left" alt="Linux" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
 
-<hr>
 <br>
 <br>
-<br>
-<div style="display:flex;justify-content:center;">
-<img align="left" alt="Linux" height="100%" style="padding-right:10px;" src="https://gh-readme-profile.vercel.app/api?username=IvnoGood&bg_color=23,3a8dde,904e95&title_color=fff&text_color=fff&icon_color=fff" /></div>
+
+
+# 
+
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" alt="Linux" height="100%" style="padding-right:10px;" src="https://gh-readme-profile.vercel.app/api?username=IvnoGood&bg_color=23,3a8dde,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+<a/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&bg_color=23,3a8dde,904e95&text_color=fff&title_color=fff" alt="ovi" />
+</a>
