@@ -36,9 +36,4 @@ Young passionated about coding things to make his world around him different and
 # 
 
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" alt="Linux" height="100%" style="padding-right:10px;" src="https://gh-readme-profile.vercel.app/api?username=IvnoGood&bg_color=23,3a8dde,904e95&title_color=fff&text_color=fff&icon_color=fff" />
-<a/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&bg_color=23,3a8dde,904e95&text_color=fff&title_color=fff" alt="ovi" />
-</a>
+![IvnoGood github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=IvnoGood)
