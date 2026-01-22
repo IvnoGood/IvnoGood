@@ -1,8 +1,9 @@
-# IvnoGood 🌽
-`Digital Craftsman (web-dev)`
 
-Young passionated about coding things to make his world around him different and try to break codes by coding subnatural things.
-(mosytly about corn)
+# IvnoGood 
+`A French/Portugese web devlopper`
+
+Hello I am a student currenttly in 11th grade (in 2025-2026) I study sciences (Maths and Chemestry) and computer science. 
+I'm not good very good at something but I can do a lot of thing. So here's what I can do: 
 <!-- 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -15,25 +16,35 @@ Young passionated about coding things to make his world around him different and
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          
    </p>
-   --><hr>
-## My languages and tools 🧰
+   -->
+## My tools:  
 <div align="center">
+<!--  Linux-->
 <img align="left" alt="Linux" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<!--  GitHub-->
 <img align="left" alt="GitHub" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<!--  Bash-->
 <img align="left" alt="Bash" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
+## My Languages:  
+<div align="center">
+<!--  NextJs-->
+<img align="left" alt="NextJs" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" />
+<!--  CSS-->
+<img align="left" alt="CSS" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<!--  JavaScript-->
+<img align="left" alt="JavaScript" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<!--  React-->
+<img align="left" alt="React" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<!--  Python-->
+<img align="left" alt="Python" height="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+</div>
 
 <br>
 <br>
 
 
-# 
 
 <br/>
 ![IvnoGood github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=IvnoGood)
